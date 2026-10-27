@@ -1,0 +1,45 @@
+name: Kantor Shorts
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  buat-video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - run: pip install -r requirements.txt
+      - run: python main.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          UPLOAD: ${{ vars.UPLOAD || '0' }}
+          YT_PRIVACY: ${{ vars.YT_PRIVACY || 'private' }}
+          NICHE: ${{ vars.NICHE || 'fakta unik dan mengejutkan' }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: hasil-video
+          path: |
+            output/final.mp4
+            output/log.json
+            output/meta.json
+      - name: Simpan riwayat topik
+        if: success()
+        run: |
+          git config user.name "kantor-shorts-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add history.json
+          git commit -m "Update riwayat topik" || echo "tidak ada perubahan"
+          git push
