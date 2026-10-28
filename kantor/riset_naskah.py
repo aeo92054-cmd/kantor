@@ -16,13 +16,18 @@ def gemini(prompt):
     body = {"contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"temperature": 0.9,
                                  "responseMimeType": "application/json"}}
-    headers = {"x-goog-api-key": os.environ["GEMINI_API_KEY"]}
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    print("Panjang key:", len(key), flush=True)
+    if not key:
+        raise RuntimeError("GEMINI_API_KEY kosong. Cek nama secret di GitHub.")
+    headers = {"x-goog-api-key": key}
     for i in range(3):
         r = requests.post(url, headers=headers, json=body, timeout=90)
         if r.status_code == 429:  # kena batas tier gratis, tunggu lalu coba lagi
             time.sleep(20 * (i + 1))
             continue
-        r.raise_for_status()
+        if not r.ok:
+            raise RuntimeError(f"Gemini error {r.status_code}: {r.text[:400]}")
         teks = r.json()["candidates"][0]["content"]["parts"][0]["text"]
         return json.loads(teks)
     raise RuntimeError("Gemini kena batas pemakaian (429). Coba lagi nanti.")
