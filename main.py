@@ -1,5 +1,7 @@
-"""Kantor Shorts: satu kali jalan = satu video.
-Alur: Riset -> Penulis -> Sutradara -> Suara -> Visual -> Editor -> Musik -> QC -> Uploader"""
+"""Kantor Shorts: satu kali jalan = satu video YouTube Shorts.
+Alur: Riset -> Penulis -> Sutradara -> Suara -> Visual -> Editor -> Musik -> QC -> Uploader
+Hasil tiap video juga dicatat di docs/data/videos.json untuk website kantor."""
+import datetime
 import json
 import os
 import pathlib
@@ -7,10 +9,11 @@ import shutil
 import sys
 
 from kantor import editor, qc, riset_naskah, suara, visual
-from kantor.util import OUT, log
+from kantor.util import EVENTS, OUT, log
 
 RIWAYAT = pathlib.Path("history.json")
 MUSIK = pathlib.Path("music")
+SITUS = pathlib.Path("docs/data/videos.json")
 
 
 def buat_video(riwayat):
@@ -35,7 +38,7 @@ def buat_video(riwayat):
         a["klip"] = visual.cari_klip(a["visual"], kerja, i, dipakai)
         ketemu += bool(a["klip"])
     log("Pencari Visual", "Editor", f"{ketemu} dari {len(adegan)} klip ditemukan"
-        + ("" if ketemu else " (pakai latar polos, isi PEXELS_API_KEY untuk klip stok)") + ".")
+        + ("" if ketemu else " (pakai latar polos, isi PIXABAY_API_KEY atau PEXELS_API_KEY untuk klip stok)") + ".")
 
     mentah = editor.rakit(adegan, kerja, kerja / "mentah.mp4")
     log("Editor", "Musik", "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack.")
@@ -48,10 +51,28 @@ def buat_video(riwayat):
     if masalah:
         raise RuntimeError("QC gagal: " + "; ".join(masalah))
     log("QC", "Uploader", f"Lolos QC ({d:.0f} detik, 1080x1920).")
+    naskah["durasi"] = d
     (OUT / "meta.json").write_text(json.dumps(
         {k: naskah[k] for k in ("judul", "deskripsi", "hashtag", "topik")},
         ensure_ascii=False, indent=2), encoding="utf-8")
     return final, naskah
+
+
+def simpan_situs(naskah, status, youtube_id=None):
+    """Tambahkan video ini ke data yang dibaca website kantor."""
+    data = {"total": 0, "videos": []}
+    if SITUS.exists():
+        data = json.loads(SITUS.read_text(encoding="utf-8"))
+    data["total"] += 1
+    data["videos"].append({
+        "id": f"VID-{data['total']}",
+        "tanggal": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "judul": naskah["judul"], "topik": naskah["topik"],
+        "hashtag": naskah["hashtag"], "durasi": round(naskah.get("durasi", 0)),
+        "status": status, "youtube": youtube_id, "peristiwa": list(EVENTS)})
+    data["videos"] = data["videos"][-20:]
+    SITUS.parent.mkdir(parents=True, exist_ok=True)
+    SITUS.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def main():
@@ -61,17 +82,20 @@ def main():
             final, naskah = buat_video(riwayat)
             break
         except RuntimeError as e:
-            log("Sistem", "Semua pekerja", f"Percobaan {percobaan} gagal: {e}")
+            log("Sistem", "Semua pekerja", f"Percobaan {percobaan} gagal: {str(e)[:200]}")
             if percobaan == 2:
                 sys.exit(1)
 
+    status, yt = "siap", None
     if os.getenv("UPLOAD") == "1":
         from kantor import uploader
-        vid = uploader.unggah(final, naskah)
-        log("Uploader", "Channel", f"Terunggah ({os.getenv('YT_PRIVACY', 'private')}): https://youtu.be/{vid}")
+        yt = uploader.unggah(final, naskah)
+        status = "diunggah"
+        log("Uploader", "Channel", f"Terunggah ({os.getenv('YT_PRIVACY', 'private')}): https://youtu.be/{yt}")
     else:
-        log("Uploader", "Channel", "Upload dimatikan (UPLOAD!=1). Video disimpan di output/final.mp4.")
+        log("Uploader", "Channel", "Upload dimatikan. Video siap di output/final.mp4.")
 
+    simpan_situs(naskah, status, yt)
     riwayat.append(naskah["topik"])
     RIWAYAT.write_text(json.dumps(riwayat[-200:], ensure_ascii=False, indent=1))
 
