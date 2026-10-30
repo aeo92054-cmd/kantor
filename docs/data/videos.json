@@ -1,5 +1,5 @@
 {
- "total": 1,
+ "total": 2,
  "videos": [
   {
    "id": "VID-1",
@@ -65,6 +65,75 @@
     },
     {
      "waktu": "07:13:48",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-2",
+   "tanggal": "2026-10-30T08:13:06Z",
+   "judul": "Hujan di Venus: Kecepatan Lebih dari 300 km/jam!",
+   "topik": "Hujan di Venus turun dengan kecepatan lebih dari 300 km/jam",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 45,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "08:12:18",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Hujan di Venus turun dengan kecepatan lebih dari 300 km/jam”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "08:12:23",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Hujan di Venus: Kecepatan Lebih dari 300 km/jam!” selesai, 100 kata."
+    },
+    {
+     "waktu": "08:12:23",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "08:12:35",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 43 detik."
+    },
+    {
+     "waktu": "08:12:38",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "08:13:06",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "08:13:06",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "08:13:06",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (45 detik, 1080x1920)."
+    },
+    {
+     "waktu": "08:13:06",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
