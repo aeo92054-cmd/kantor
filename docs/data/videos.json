@@ -1,0 +1,75 @@
+{
+ "total": 1,
+ "videos": [
+  {
+   "id": "VID-1",
+   "tanggal": "2026-10-30T07:13:48Z",
+   "judul": "Mauna Kea: Gunung Lebih Tinggi dari Everest, Tersembunyi di Bawah Laut",
+   "topik": "Gunung berapi bawah laut Mauna Kea lebih tinggi dari Gunung Everest",
+   "hashtag": [
+    "#fakta",
+    "#unik",
+    "#geografi"
+   ],
+   "durasi": 42,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "07:12:56",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Gunung berapi bawah laut Mauna Kea lebih tinggi dari Gunung Everest”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "07:13:01",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Mauna Kea: Gunung Lebih Tinggi dari Everest, Tersembunyi di Bawah Laut” selesai, 105 kata."
+    },
+    {
+     "waktu": "07:13:01",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "07:13:11",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 40 detik."
+    },
+    {
+     "waktu": "07:13:15",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "07:13:48",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "07:13:48",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "07:13:48",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (42 detik, 1080x1920)."
+    },
+    {
+     "waktu": "07:13:48",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  }
+ ]
+}
