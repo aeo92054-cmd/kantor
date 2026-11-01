@@ -1,5 +1,5 @@
 {
- "total": 3,
+ "total": 4,
  "videos": [
   {
    "id": "VID-1",
@@ -204,6 +204,75 @@
     },
     {
      "waktu": "08:05:42",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-4",
+   "tanggal": "2026-11-01T08:51:55Z",
+   "judul": "Fosil Mikroba 3,5 Miliar Tahun di Darfur, Sudan",
+   "topik": "Tanah di Darfur, Sudan mengandung fosil mikroba berusia 3,5 miliar tahun",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 44,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "08:51:06",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Tanah di Darfur, Sudan mengandung fosil mikroba berusia 3,5 miliar tahun”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "08:51:11",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Fosil Mikroba 3,5 Miliar Tahun di Darfur, Sudan” selesai, 109 kata."
+    },
+    {
+     "waktu": "08:51:11",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "08:51:25",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 42 detik."
+    },
+    {
+     "waktu": "08:51:28",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "08:51:54",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "08:51:54",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "08:51:55",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (44 detik, 1080x1920)."
+    },
+    {
+     "waktu": "08:51:55",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
