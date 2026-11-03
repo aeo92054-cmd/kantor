@@ -1,5 +1,5 @@
 {
- "total": 5,
+ "total": 6,
  "videos": [
   {
    "id": "VID-1",
@@ -343,6 +343,75 @@
     },
     {
      "waktu": "09:00:23",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-6",
+   "tanggal": "2026-11-03T09:08:13Z",
+   "judul": "Lumba‑lumba Punya Nama Unik untuk Setiap Anggota Kelompok",
+   "topik": "Lumba-lumba memberi nama unik kepada setiap anggota kelompoknya",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 50,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "09:07:19",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Lumba-lumba memberi nama unik kepada setiap anggota kelompoknya”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "09:07:25",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Lumba‑lumba Punya Nama Unik untuk Setiap Anggota Kelompok” selesai, 109 kata."
+    },
+    {
+     "waktu": "09:07:25",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "09:07:42",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 48 detik."
+    },
+    {
+     "waktu": "09:07:45",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "09:08:13",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "09:08:13",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "09:08:13",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (50 detik, 1080x1920)."
+    },
+    {
+     "waktu": "09:08:13",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
