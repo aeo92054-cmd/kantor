@@ -1,5 +1,5 @@
 {
- "total": 8,
+ "total": 9,
  "videos": [
   {
    "id": "VID-1",
@@ -551,6 +551,77 @@
     },
     {
      "waktu": "09:06:50",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-9",
+   "tanggal": "2026-11-06T09:00:08Z",
+   "judul": "Mengapa Kucing Tidak Bisa Merasa Manis? Fakta Gen TAS1R2",
+   "topik": "Kucing tidak dapat mencium rasa manis karena kehilangan gen TAS1R2",
+   "hashtag": [
+    "#fakta",
+    "#unik",
+    "#kucing",
+    "#gen"
+   ],
+   "durasi": 40,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "08:59:27",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Kucing tidak dapat mencium rasa manis karena kehilangan gen TAS1R2”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "08:59:31",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Mengapa Kucing Tidak Bisa Merasa Manis? Fakta Gen TAS1R2” selesai, 94 kata."
+    },
+    {
+     "waktu": "08:59:31",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "08:59:48",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 38 detik."
+    },
+    {
+     "waktu": "08:59:51",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "09:00:08",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "09:00:08",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "09:00:08",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (40 detik, 1080x1920)."
+    },
+    {
+     "waktu": "09:00:08",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
