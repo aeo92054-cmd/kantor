@@ -1,5 +1,5 @@
 {
- "total": 9,
+ "total": 10,
  "videos": [
   {
    "id": "VID-1",
@@ -622,6 +622,75 @@
     },
     {
      "waktu": "09:00:08",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-10",
+   "tanggal": "2026-11-07T08:28:54Z",
+   "judul": "Pisang adalah Berri, Stroberi Bukan! Fakta Botani Mengejutkan",
+   "topik": "Secara botani, pisang termasuk buah beri sementara stroberi bukan",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 45,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "08:27:58",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Secara botani, pisang termasuk buah beri sementara stroberi bukan”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "08:28:02",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Pisang adalah Berri, Stroberi Bukan! Fakta Botani Mengejutkan” selesai, 96 kata."
+    },
+    {
+     "waktu": "08:28:02",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "08:28:23",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 42 detik."
+    },
+    {
+     "waktu": "08:28:25",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "08:28:54",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "08:28:54",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "08:28:54",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (45 detik, 1080x1920)."
+    },
+    {
+     "waktu": "08:28:54",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
