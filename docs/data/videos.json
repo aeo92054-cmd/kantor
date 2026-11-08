@@ -1,5 +1,5 @@
 {
- "total": 10,
+ "total": 11,
  "videos": [
   {
    "id": "VID-1",
@@ -691,6 +691,75 @@
     },
     {
      "waktu": "08:28:54",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-11",
+   "tanggal": "2026-11-08T08:42:36Z",
+   "judul": "Penyu Laut dan Magnet Bumi: Kembali ke Pantai Kelahiran",
+   "topik": "Penyu laut kembali ke pantai tempat mereka menetas dengan menggunakan medan magnet bumi",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 47,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "08:41:33",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Penyu laut kembali ke pantai tempat mereka menetas dengan menggunakan medan magnet bumi”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "08:41:37",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Penyu Laut dan Magnet Bumi: Kembali ke Pantai Kelahiran” selesai, 109 kata."
+    },
+    {
+     "waktu": "08:41:37",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "08:41:56",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 45 detik."
+    },
+    {
+     "waktu": "08:41:59",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "08:42:36",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "08:42:36",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "08:42:36",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (47 detik, 1080x1920)."
+    },
+    {
+     "waktu": "08:42:36",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
