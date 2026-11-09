@@ -1,5 +1,5 @@
 {
- "total": 11,
+ "total": 12,
  "videos": [
   {
    "id": "VID-1",
@@ -760,6 +760,75 @@
     },
     {
      "waktu": "08:42:36",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-12",
+   "tanggal": "2026-11-09T09:20:27Z",
+   "judul": "Burung Kolibri: Satu-satunya yang Bisa Terbang Mundur",
+   "topik": "Burung kolibri adalah satu-satunya burung yang dapat terbang mundur",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 50,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "09:19:19",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Burung kolibri adalah satu-satunya burung yang dapat terbang mundur”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "09:19:26",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Burung Kolibri: Satu-satunya yang Bisa Terbang Mundur” selesai, 109 kata."
+    },
+    {
+     "waktu": "09:19:26",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "7 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "09:19:47",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 47 detik."
+    },
+    {
+     "waktu": "09:19:52",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "7 dari 7 klip ditemukan."
+    },
+    {
+     "waktu": "09:20:27",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "09:20:27",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "09:20:27",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (50 detik, 1080x1920)."
+    },
+    {
+     "waktu": "09:20:27",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
