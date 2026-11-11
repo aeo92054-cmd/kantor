@@ -1,5 +1,5 @@
 {
- "total": 12,
+ "total": 13,
  "videos": [
   {
    "id": "VID-1",
@@ -829,6 +829,75 @@
     },
     {
      "waktu": "09:20:27",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-13",
+   "tanggal": "2026-11-11T08:58:02Z",
+   "judul": "Bagaimana Garam Meningkatkan Titik Didih Air hingga 100,6°C",
+   "topik": "Garam dapat meningkatkan titik didih air hingga 100,6°C pada konsentrasi 1 molar",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 42,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "08:57:11",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Garam dapat meningkatkan titik didih air hingga 100,6°C pada konsentrasi 1 molar”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "08:57:15",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Bagaimana Garam Meningkatkan Titik Didih Air hingga 100,6°C” selesai, 91 kata."
+    },
+    {
+     "waktu": "08:57:15",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "7 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "08:57:38",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 39 detik."
+    },
+    {
+     "waktu": "08:57:44",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "7 dari 7 klip ditemukan."
+    },
+    {
+     "waktu": "08:58:02",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "08:58:02",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "08:58:02",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (42 detik, 1080x1920)."
+    },
+    {
+     "waktu": "08:58:02",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
