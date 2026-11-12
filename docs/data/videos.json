@@ -1,5 +1,5 @@
 {
- "total": 13,
+ "total": 14,
  "videos": [
   {
    "id": "VID-1",
@@ -898,6 +898,75 @@
     },
     {
      "waktu": "08:58:02",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-14",
+   "tanggal": "2026-11-12T09:26:40Z",
+   "judul": "Mengapa Gajah Tidak Bisa Melompat? Fakta Menarik tentang Kaki Gajah",
+   "topik": "Gajah tidak dapat melompat karena struktur tulang kakinya",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 46,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "09:25:49",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Gajah tidak dapat melompat karena struktur tulang kakinya”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "09:25:55",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Mengapa Gajah Tidak Bisa Melompat? Fakta Menarik tentang Kaki Gajah” selesai, 99 kata."
+    },
+    {
+     "waktu": "09:25:55",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "09:26:15",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 44 detik."
+    },
+    {
+     "waktu": "09:26:19",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "09:26:40",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "09:26:40",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "09:26:40",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (46 detik, 1080x1920)."
+    },
+    {
+     "waktu": "09:26:40",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
