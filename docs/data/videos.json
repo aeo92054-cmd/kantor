@@ -1,5 +1,5 @@
 {
- "total": 14,
+ "total": 15,
  "videos": [
   {
    "id": "VID-1",
@@ -967,6 +967,75 @@
     },
     {
      "waktu": "09:26:40",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-15",
+   "tanggal": "2026-11-13T09:13:24Z",
+   "judul": "Kacang Tanah: Legum Bukan Kacang, Fakta Menarik yang Jarang Diketahui",
+   "topik": "Kacang tanah sebenarnya merupakan legum, bukan kacang",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 46,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "09:12:19",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Kacang tanah sebenarnya merupakan legum, bukan kacang”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "09:12:23",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Kacang Tanah: Legum Bukan Kacang, Fakta Menarik yang Jarang Diketahui” selesai, 108 kata."
+    },
+    {
+     "waktu": "09:12:23",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "09:12:35",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 44 detik."
+    },
+    {
+     "waktu": "09:12:40",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "09:13:23",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "09:13:23",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "09:13:24",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (46 detik, 1080x1920)."
+    },
+    {
+     "waktu": "09:13:24",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
