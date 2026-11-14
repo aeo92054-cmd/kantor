@@ -1,5 +1,5 @@
 {
- "total": 15,
+ "total": 16,
  "videos": [
   {
    "id": "VID-1",
@@ -1036,6 +1036,75 @@
     },
     {
      "waktu": "09:13:24",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-16",
+   "tanggal": "2026-11-14T08:43:50Z",
+   "judul": "Baobab: Pohon Penyimpan Air hingga 120.000 Liter",
+   "topik": "Pohon baobab dapat menyimpan hingga 120.000 liter air dalam batangnya",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 50,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "08:42:48",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Pohon baobab dapat menyimpan hingga 120.000 liter air dalam batangnya”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "08:42:51",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Baobab: Pohon Penyimpan Air hingga 120.000 Liter” selesai, 109 kata."
+    },
+    {
+     "waktu": "08:42:51",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "08:43:07",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 48 detik."
+    },
+    {
+     "waktu": "08:43:13",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "08:43:50",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "08:43:50",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "08:43:50",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (50 detik, 1080x1920)."
+    },
+    {
+     "waktu": "08:43:50",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
