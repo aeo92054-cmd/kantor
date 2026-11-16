@@ -1,5 +1,5 @@
 {
- "total": 16,
+ "total": 17,
  "videos": [
   {
    "id": "VID-1",
@@ -1105,6 +1105,76 @@
     },
     {
      "waktu": "08:43:50",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-17",
+   "tanggal": "2026-11-16T09:07:46Z",
+   "judul": "Siput Laut Bisa Ganti Kelamin, Fakta Unik!",
+   "topik": "Siput laut dapat berubah jenis kelamin tergantung pada populasi",
+   "hashtag": [
+    "#fakta",
+    "#unik",
+    "#sains"
+   ],
+   "durasi": 44,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "09:06:59",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Siput laut dapat berubah jenis kelamin tergantung pada populasi”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "09:07:03",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Siput Laut Bisa Ganti Kelamin, Fakta Unik!” selesai, 90 kata."
+    },
+    {
+     "waktu": "09:07:03",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "09:07:19",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 42 detik."
+    },
+    {
+     "waktu": "09:07:23",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "09:07:46",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "09:07:46",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "09:07:46",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (44 detik, 1080x1920)."
+    },
+    {
+     "waktu": "09:07:46",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
