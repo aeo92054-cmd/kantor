@@ -1,5 +1,5 @@
 {
- "total": 18,
+ "total": 19,
  "videos": [
   {
    "id": "VID-1",
@@ -1245,6 +1245,75 @@
     },
     {
      "waktu": "10:19:52",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-19",
+   "tanggal": "2026-11-18T09:50:43Z",
+   "judul": "Kepiting Bisa Tumbuhkan Kembali Capit dalam 6‑12 Minggu",
+   "topik": "Kepiting dapat menumbuhkan kembali capit yang hilang dalam 6‑12 minggu",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 42,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "09:49:59",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Kepiting dapat menumbuhkan kembali capit yang hilang dalam 6‑12 minggu”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "09:50:03",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Kepiting Bisa Tumbuhkan Kembali Capit dalam 6‑12 Minggu” selesai, 89 kata."
+    },
+    {
+     "waktu": "09:50:03",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "09:50:21",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 40 detik."
+    },
+    {
+     "waktu": "09:50:25",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "09:50:43",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "09:50:43",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "09:50:43",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (42 detik, 1080x1920)."
+    },
+    {
+     "waktu": "09:50:43",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
