@@ -1,5 +1,5 @@
 {
- "total": 19,
+ "total": 20,
  "videos": [
   {
    "id": "VID-1",
@@ -1314,6 +1314,75 @@
     },
     {
      "waktu": "09:50:43",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-20",
+   "tanggal": "2026-11-20T09:46:53Z",
+   "judul": "Sahara: Dari Hutan Hujan Tropis ke Gurun",
+   "topik": "Sahara dulunya hutan hujan tropis sekitar 5.000 tahun yang lalu",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 41,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "09:46:00",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Sahara dulunya hutan hujan tropis sekitar 5.000 tahun yang lalu”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "09:46:03",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Sahara: Dari Hutan Hujan Tropis ke Gurun” selesai, 92 kata."
+    },
+    {
+     "waktu": "09:46:03",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "7 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "09:46:25",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 38 detik."
+    },
+    {
+     "waktu": "09:46:28",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "7 dari 7 klip ditemukan."
+    },
+    {
+     "waktu": "09:46:53",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "09:46:53",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "09:46:53",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (41 detik, 1080x1920)."
+    },
+    {
+     "waktu": "09:46:53",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
