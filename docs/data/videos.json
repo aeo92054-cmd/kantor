@@ -1,75 +1,6 @@
 {
- "total": 21,
+ "total": 22,
  "videos": [
-  {
-   "id": "VID-2",
-   "tanggal": "2026-10-30T08:13:06Z",
-   "judul": "Hujan di Venus: Kecepatan Lebih dari 300 km/jam!",
-   "topik": "Hujan di Venus turun dengan kecepatan lebih dari 300 km/jam",
-   "hashtag": [
-    "#fakta",
-    "#unik"
-   ],
-   "durasi": 45,
-   "status": "siap",
-   "youtube": null,
-   "peristiwa": [
-    {
-     "waktu": "08:12:18",
-     "dari": "Si Pemburu Tren",
-     "ke": "Penulis Naskah",
-     "pesan": "Topik hari ini: “Hujan di Venus turun dengan kecepatan lebih dari 300 km/jam”. Tolong tulis naskahnya."
-    },
-    {
-     "waktu": "08:12:23",
-     "dari": "Penulis Naskah",
-     "ke": "Sutradara",
-     "pesan": "Naskah “Hujan di Venus: Kecepatan Lebih dari 300 km/jam!” selesai, 100 kata."
-    },
-    {
-     "waktu": "08:12:23",
-     "dari": "Sutradara",
-     "ke": "Pengisi Suara",
-     "pesan": "6 adegan siap. Tolong rekam suaranya."
-    },
-    {
-     "waktu": "08:12:35",
-     "dari": "Pengisi Suara",
-     "ke": "Pencari Visual",
-     "pesan": "Suara selesai, total 43 detik."
-    },
-    {
-     "waktu": "08:12:38",
-     "dari": "Pencari Visual",
-     "ke": "Editor",
-     "pesan": "6 dari 6 klip ditemukan."
-    },
-    {
-     "waktu": "08:13:06",
-     "dari": "Editor",
-     "ke": "Musik",
-     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
-    },
-    {
-     "waktu": "08:13:06",
-     "dari": "Musik",
-     "ke": "QC",
-     "pesan": "Folder music/ kosong, video tanpa musik latar."
-    },
-    {
-     "waktu": "08:13:06",
-     "dari": "QC",
-     "ke": "Uploader",
-     "pesan": "Lolos QC (45 detik, 1080x1920)."
-    },
-    {
-     "waktu": "08:13:06",
-     "dari": "Uploader",
-     "ke": "Channel",
-     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
-    }
-   ]
-  },
   {
    "id": "VID-3",
    "tanggal": "2026-10-31T08:05:42Z",
@@ -1382,6 +1313,76 @@
     },
     {
      "waktu": "09:20:01",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-22",
+   "tanggal": "2026-11-22T09:28:36Z",
+   "judul": "Jari 180° Orangutan: Rahasia Memanjat Tinggi",
+   "topik": "Orangutan memiliki jari yang dapat berputar 180 derajat, membantu mereka memanjat",
+   "hashtag": [
+    "#fakta",
+    "#unik",
+    "#orangutan"
+   ],
+   "durasi": 43,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "09:27:38",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Orangutan memiliki jari yang dapat berputar 180 derajat, membantu mereka memanjat”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "09:27:41",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Jari 180° Orangutan: Rahasia Memanjat Tinggi” selesai, 88 kata."
+    },
+    {
+     "waktu": "09:27:41",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "09:28:07",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 40 detik."
+    },
+    {
+     "waktu": "09:28:10",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "09:28:36",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "09:28:36",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "09:28:36",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (43 detik, 1080x1920)."
+    },
+    {
+     "waktu": "09:28:36",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
