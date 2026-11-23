@@ -1,76 +1,6 @@
 {
- "total": 22,
+ "total": 23,
  "videos": [
-  {
-   "id": "VID-3",
-   "tanggal": "2026-10-31T08:05:42Z",
-   "judul": "Kelelawar: Mamalia Satu-satunya yang Bisa Terbang Aktif",
-   "topik": "Kelelawar satu-satunya mamalia yang dapat terbang secara aktif",
-   "hashtag": [
-    "#fakta",
-    "#unik",
-    "#bat"
-   ],
-   "durasi": 41,
-   "status": "siap",
-   "youtube": null,
-   "peristiwa": [
-    {
-     "waktu": "08:05:01",
-     "dari": "Si Pemburu Tren",
-     "ke": "Penulis Naskah",
-     "pesan": "Topik hari ini: “Kelelawar satu-satunya mamalia yang dapat terbang secara aktif”. Tolong tulis naskahnya."
-    },
-    {
-     "waktu": "08:05:04",
-     "dari": "Penulis Naskah",
-     "ke": "Sutradara",
-     "pesan": "Naskah “Kelelawar: Mamalia Satu-satunya yang Bisa Terbang Aktif” selesai, 96 kata."
-    },
-    {
-     "waktu": "08:05:04",
-     "dari": "Sutradara",
-     "ke": "Pengisi Suara",
-     "pesan": "6 adegan siap. Tolong rekam suaranya."
-    },
-    {
-     "waktu": "08:05:14",
-     "dari": "Pengisi Suara",
-     "ke": "Pencari Visual",
-     "pesan": "Suara selesai, total 39 detik."
-    },
-    {
-     "waktu": "08:05:17",
-     "dari": "Pencari Visual",
-     "ke": "Editor",
-     "pesan": "6 dari 6 klip ditemukan."
-    },
-    {
-     "waktu": "08:05:42",
-     "dari": "Editor",
-     "ke": "Musik",
-     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
-    },
-    {
-     "waktu": "08:05:42",
-     "dari": "Musik",
-     "ke": "QC",
-     "pesan": "Folder music/ kosong, video tanpa musik latar."
-    },
-    {
-     "waktu": "08:05:42",
-     "dari": "QC",
-     "ke": "Uploader",
-     "pesan": "Lolos QC (41 detik, 1080x1920)."
-    },
-    {
-     "waktu": "08:05:42",
-     "dari": "Uploader",
-     "ke": "Channel",
-     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
-    }
-   ]
-  },
   {
    "id": "VID-4",
    "tanggal": "2026-11-01T08:51:55Z",
@@ -1383,6 +1313,75 @@
     },
     {
      "waktu": "09:28:36",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-23",
+   "tanggal": "2026-11-23T10:25:50Z",
+   "judul": "Mengapa Biji Kopi Pahit? Kafein Sebagai Pertahanan Alami",
+   "topik": "Biji kopi mengandung kafein sebagai senyawa pertahanan alami terhadap serangga",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 38,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "10:25:00",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Biji kopi mengandung kafein sebagai senyawa pertahanan alami terhadap serangga”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "10:25:04",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Mengapa Biji Kopi Pahit? Kafein Sebagai Pertahanan Alami” selesai, 90 kata."
+    },
+    {
+     "waktu": "10:25:04",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "10:25:25",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 36 detik."
+    },
+    {
+     "waktu": "10:25:28",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "10:25:50",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "10:25:50",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "10:25:50",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (38 detik, 1080x1920)."
+    },
+    {
+     "waktu": "10:25:50",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
