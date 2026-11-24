@@ -1,75 +1,6 @@
 {
- "total": 23,
+ "total": 24,
  "videos": [
-  {
-   "id": "VID-4",
-   "tanggal": "2026-11-01T08:51:55Z",
-   "judul": "Fosil Mikroba 3,5 Miliar Tahun di Darfur, Sudan",
-   "topik": "Tanah di Darfur, Sudan mengandung fosil mikroba berusia 3,5 miliar tahun",
-   "hashtag": [
-    "#fakta",
-    "#unik"
-   ],
-   "durasi": 44,
-   "status": "siap",
-   "youtube": null,
-   "peristiwa": [
-    {
-     "waktu": "08:51:06",
-     "dari": "Si Pemburu Tren",
-     "ke": "Penulis Naskah",
-     "pesan": "Topik hari ini: “Tanah di Darfur, Sudan mengandung fosil mikroba berusia 3,5 miliar tahun”. Tolong tulis naskahnya."
-    },
-    {
-     "waktu": "08:51:11",
-     "dari": "Penulis Naskah",
-     "ke": "Sutradara",
-     "pesan": "Naskah “Fosil Mikroba 3,5 Miliar Tahun di Darfur, Sudan” selesai, 109 kata."
-    },
-    {
-     "waktu": "08:51:11",
-     "dari": "Sutradara",
-     "ke": "Pengisi Suara",
-     "pesan": "6 adegan siap. Tolong rekam suaranya."
-    },
-    {
-     "waktu": "08:51:25",
-     "dari": "Pengisi Suara",
-     "ke": "Pencari Visual",
-     "pesan": "Suara selesai, total 42 detik."
-    },
-    {
-     "waktu": "08:51:28",
-     "dari": "Pencari Visual",
-     "ke": "Editor",
-     "pesan": "6 dari 6 klip ditemukan."
-    },
-    {
-     "waktu": "08:51:54",
-     "dari": "Editor",
-     "ke": "Musik",
-     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
-    },
-    {
-     "waktu": "08:51:54",
-     "dari": "Musik",
-     "ke": "QC",
-     "pesan": "Folder music/ kosong, video tanpa musik latar."
-    },
-    {
-     "waktu": "08:51:55",
-     "dari": "QC",
-     "ke": "Uploader",
-     "pesan": "Lolos QC (44 detik, 1080x1920)."
-    },
-    {
-     "waktu": "08:51:55",
-     "dari": "Uploader",
-     "ke": "Channel",
-     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
-    }
-   ]
-  },
   {
    "id": "VID-5",
    "tanggal": "2026-11-02T09:00:23Z",
@@ -1382,6 +1313,75 @@
     },
     {
      "waktu": "10:25:50",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-24",
+   "tanggal": "2026-11-24T12:07:22Z",
+   "judul": "Misteri Gurun Atacama: 400 Tahun Tanpa Hujan",
+   "topik": "Gurun Atacama di Chili tidak pernah hujan selama lebih dari 400 tahun",
+   "hashtag": [
+    "#fakta",
+    "#unik"
+   ],
+   "durasi": 40,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "12:06:30",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Gurun Atacama di Chili tidak pernah hujan selama lebih dari 400 tahun”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "12:06:33",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Misteri Gurun Atacama: 400 Tahun Tanpa Hujan” selesai, 95 kata."
+    },
+    {
+     "waktu": "12:06:33",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "12:06:50",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 38 detik."
+    },
+    {
+     "waktu": "12:06:53",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "12:07:22",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "12:07:22",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "12:07:22",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (40 detik, 1080x1920)."
+    },
+    {
+     "waktu": "12:07:22",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
