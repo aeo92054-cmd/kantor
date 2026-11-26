@@ -1,75 +1,6 @@
 {
- "total": 26,
+ "total": 27,
  "videos": [
-  {
-   "id": "VID-7",
-   "tanggal": "2026-11-04T08:44:37Z",
-   "judul": "Cumi-cumi Punya Tiga Hati: Rahasia Bertahan di Laut Dalam",
-   "topik": "Cumi‑cumi memiliki tiga hati yang berfungsi secara terpisah",
-   "hashtag": [
-    "#fakta",
-    "#unik"
-   ],
-   "durasi": 48,
-   "status": "siap",
-   "youtube": null,
-   "peristiwa": [
-    {
-     "waktu": "08:43:47",
-     "dari": "Si Pemburu Tren",
-     "ke": "Penulis Naskah",
-     "pesan": "Topik hari ini: “Cumi‑cumi memiliki tiga hati yang berfungsi secara terpisah”. Tolong tulis naskahnya."
-    },
-    {
-     "waktu": "08:43:51",
-     "dari": "Penulis Naskah",
-     "ke": "Sutradara",
-     "pesan": "Naskah “Cumi-cumi Punya Tiga Hati: Rahasia Bertahan di Laut Dalam” selesai, 108 kata."
-    },
-    {
-     "waktu": "08:43:51",
-     "dari": "Sutradara",
-     "ke": "Pengisi Suara",
-     "pesan": "6 adegan siap. Tolong rekam suaranya."
-    },
-    {
-     "waktu": "08:44:11",
-     "dari": "Pengisi Suara",
-     "ke": "Pencari Visual",
-     "pesan": "Suara selesai, total 45 detik."
-    },
-    {
-     "waktu": "08:44:17",
-     "dari": "Pencari Visual",
-     "ke": "Editor",
-     "pesan": "6 dari 6 klip ditemukan."
-    },
-    {
-     "waktu": "08:44:37",
-     "dari": "Editor",
-     "ke": "Musik",
-     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
-    },
-    {
-     "waktu": "08:44:37",
-     "dari": "Musik",
-     "ke": "QC",
-     "pesan": "Folder music/ kosong, video tanpa musik latar."
-    },
-    {
-     "waktu": "08:44:37",
-     "dari": "QC",
-     "ke": "Uploader",
-     "pesan": "Lolos QC (48 detik, 1080x1920)."
-    },
-    {
-     "waktu": "08:44:37",
-     "dari": "Uploader",
-     "ke": "Channel",
-     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
-    }
-   ]
-  },
   {
    "id": "VID-8",
    "tanggal": "2026-11-05T09:06:50Z",
@@ -1381,6 +1312,76 @@
     },
     {
      "waktu": "10:58:43",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-27",
+   "tanggal": "2026-11-26T10:34:18Z",
+   "judul": "Biji Kakao & Teobromin: Stimulant Alami yang Mengejutkan",
+   "topik": "Biji kakao mengandung teobromin, senyawa yang bersifat stimulant bagi manusia dan hewan",
+   "hashtag": [
+    "#fakta",
+    "#unik",
+    "#kakao"
+   ],
+   "durasi": 51,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "10:33:11",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Biji kakao mengandung teobromin, senyawa yang bersifat stimulant bagi manusia dan hewan”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "10:33:15",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Biji Kakao & Teobromin: Stimulant Alami yang Mengejutkan” selesai, 112 kata."
+    },
+    {
+     "waktu": "10:33:15",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "6 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "10:33:53",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 49 detik."
+    },
+    {
+     "waktu": "10:33:55",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "6 dari 6 klip ditemukan."
+    },
+    {
+     "waktu": "10:34:17",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "10:34:17",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "10:34:18",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (51 detik, 1080x1920)."
+    },
+    {
+     "waktu": "10:34:18",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
