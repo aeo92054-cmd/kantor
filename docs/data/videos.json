@@ -1,76 +1,6 @@
 {
- "total": 27,
+ "total": 28,
  "videos": [
-  {
-   "id": "VID-8",
-   "tanggal": "2026-11-05T09:06:50Z",
-   "judul": "Migrasi Epik Kupu‑kupu Monarch: Ribuan Kilometer Menyeberang Amerika Utara",
-   "topik": "Kupu‑kupu Monarch melakukan migrasi ribuan kilometer melintasi Amerika Utara",
-   "hashtag": [
-    "#fakta",
-    "#unik",
-    "#monarch"
-   ],
-   "durasi": 48,
-   "status": "siap",
-   "youtube": null,
-   "peristiwa": [
-    {
-     "waktu": "09:05:38",
-     "dari": "Si Pemburu Tren",
-     "ke": "Penulis Naskah",
-     "pesan": "Topik hari ini: “Kupu‑kupu Monarch melakukan migrasi ribuan kilometer melintasi Amerika Utara”. Tolong tulis naskahnya."
-    },
-    {
-     "waktu": "09:05:44",
-     "dari": "Penulis Naskah",
-     "ke": "Sutradara",
-     "pesan": "Naskah “Migrasi Epik Kupu‑kupu Monarch: Ribuan Kilometer Menyeberang Amerika Utara” selesai, 102 kata."
-    },
-    {
-     "waktu": "09:05:44",
-     "dari": "Sutradara",
-     "ke": "Pengisi Suara",
-     "pesan": "7 adegan siap. Tolong rekam suaranya."
-    },
-    {
-     "waktu": "09:06:04",
-     "dari": "Pengisi Suara",
-     "ke": "Pencari Visual",
-     "pesan": "Suara selesai, total 46 detik."
-    },
-    {
-     "waktu": "09:06:13",
-     "dari": "Pencari Visual",
-     "ke": "Editor",
-     "pesan": "7 dari 7 klip ditemukan."
-    },
-    {
-     "waktu": "09:06:50",
-     "dari": "Editor",
-     "ke": "Musik",
-     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
-    },
-    {
-     "waktu": "09:06:50",
-     "dari": "Musik",
-     "ke": "QC",
-     "pesan": "Folder music/ kosong, video tanpa musik latar."
-    },
-    {
-     "waktu": "09:06:50",
-     "dari": "QC",
-     "ke": "Uploader",
-     "pesan": "Lolos QC (48 detik, 1080x1920)."
-    },
-    {
-     "waktu": "09:06:50",
-     "dari": "Uploader",
-     "ke": "Channel",
-     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
-    }
-   ]
-  },
   {
    "id": "VID-9",
    "tanggal": "2026-11-06T09:00:08Z",
@@ -1382,6 +1312,76 @@
     },
     {
      "waktu": "10:34:18",
+     "dari": "Uploader",
+     "ke": "Channel",
+     "pesan": "Upload dimatikan. Video siap di output/final.mp4."
+    }
+   ]
+  },
+  {
+   "id": "VID-28",
+   "tanggal": "2026-11-27T10:38:13Z",
+   "judul": "Bakteri Usus Produksi 90% Vitamin K2: Kenapa Penting?",
+   "topik": "Bakteri usus manusia memproduksi sekitar 90% vitamin K2 yang diperlukan tubuh",
+   "hashtag": [
+    "#fakta",
+    "#unik",
+    "#kesehatan"
+   ],
+   "durasi": 46,
+   "status": "siap",
+   "youtube": null,
+   "peristiwa": [
+    {
+     "waktu": "10:37:24",
+     "dari": "Si Pemburu Tren",
+     "ke": "Penulis Naskah",
+     "pesan": "Topik hari ini: “Bakteri usus manusia memproduksi sekitar 90% vitamin K2 yang diperlukan tubuh”. Tolong tulis naskahnya."
+    },
+    {
+     "waktu": "10:37:27",
+     "dari": "Penulis Naskah",
+     "ke": "Sutradara",
+     "pesan": "Naskah “Bakteri Usus Produksi 90% Vitamin K2: Kenapa Penting?” selesai, 98 kata."
+    },
+    {
+     "waktu": "10:37:27",
+     "dari": "Sutradara",
+     "ke": "Pengisi Suara",
+     "pesan": "7 adegan siap. Tolong rekam suaranya."
+    },
+    {
+     "waktu": "10:37:45",
+     "dari": "Pengisi Suara",
+     "ke": "Pencari Visual",
+     "pesan": "Suara selesai, total 44 detik."
+    },
+    {
+     "waktu": "10:37:48",
+     "dari": "Pencari Visual",
+     "ke": "Editor",
+     "pesan": "7 dari 7 klip ditemukan."
+    },
+    {
+     "waktu": "10:38:13",
+     "dari": "Editor",
+     "ke": "Musik",
+     "pesan": "Video dirakit dengan subtitle format 9:16. Tolong pasang soundtrack."
+    },
+    {
+     "waktu": "10:38:13",
+     "dari": "Musik",
+     "ke": "QC",
+     "pesan": "Folder music/ kosong, video tanpa musik latar."
+    },
+    {
+     "waktu": "10:38:13",
+     "dari": "QC",
+     "ke": "Uploader",
+     "pesan": "Lolos QC (46 detik, 1080x1920)."
+    },
+    {
+     "waktu": "10:38:13",
      "dari": "Uploader",
      "ke": "Channel",
      "pesan": "Upload dimatikan. Video siap di output/final.mp4."
